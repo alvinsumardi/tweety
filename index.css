@@ -59,6 +59,10 @@ textarea{
     line-height: 30px;
 }
 
+.reply-tweet-input{
+    font-size: 16px;
+}
+
 button{
     background-color: #1DA1F2;
     border: none;
